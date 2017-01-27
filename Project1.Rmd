@@ -1,11 +1,11 @@
 ---
 title: "Reproducible Research Course Project 1"
-author: "Connor"
+author: "C. K. Novy"
 date: "January 23, 2017"
 output:
-  html_document: default
-  pdf_document: default
-  keep_md: true
+  html_document:   
+    keep_md: true
+  
 ---
 # Reproducible Research: Peer Assessment 1 
 ##Just loading the data and removing NA values (for now)
